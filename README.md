@@ -1,3 +1,6 @@
+# Iniciar aplicação:
+Executar o npm install na raiz do projeto, logo após npm start para visualizar o projeto.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
