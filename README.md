@@ -1,6 +1,11 @@
 # Iniciar aplicação:
 Executar o npm install na raiz do projeto, logo após npm start para visualizar o projeto.
 
+# Ferramentas utilizadas:
+- Biblioteca Material UI
+- Framework Boostrap 5
+
+______________________________________________________
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
