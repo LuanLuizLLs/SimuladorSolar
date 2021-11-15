@@ -1,0 +1,83 @@
+/**
+* ESTILOS GERIAS SIMULACAO
+*/
+
+.contentSimulacao {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tituloSimulacao {
+    font-size: 1rem;
+    color: #3b3b3b;
+}
+.blocoSimulacao {
+    margin: 20px 0;
+}
+.blocoSimulacao p {
+    font-weight: bold;
+}
+.irradiacaoMaxMin,
+.parcelamentoSimulacao {
+    display: flex;
+}
+
+.kitSimulacao img {
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+    overflow: hidden;
+}
+.kitSimulacao-Item * {
+    margin: 0 4px;
+}
+.cardMaterial::-webkit-scrollbar {
+    height: 5px;
+    width: 5px;
+}
+.cardMaterial::-webkit-scrollbar-track {
+    background-color: lightblue;
+}
+.cardMaterial::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: gray;
+    opacity: 0.5;
+}
+
+.valorSimulacao {
+    font-size: 0.8rem;
+    margin: 0 2px;
+}
+.valorSimulacao * {
+    padding: 0 2px;
+}
+
+.instalacaoEconomica {
+    display: flex;
+    justify-content: space-between;
+}
+
+.dadosSimulacao {
+    height: 100%;
+    align-items: center;
+}
+
+@media only screen and (max-width: 992px) {
+    .contentSimulacao {
+        height: unset !important;
+    }
+    .cardMaterial {
+        max-height: unset !important;
+        overflow-y: unset !important;
+    }
+    .instalacaoEconomica {
+        flex-direction: column;
+    }
+    .dadosSimulacao {
+        text-align: center;
+    }
+    .irradiacaoMaxMin {
+        justify-content: center !important;
+    }
+}
