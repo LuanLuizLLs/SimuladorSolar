@@ -3,7 +3,7 @@ Execute o comando **npm install** na raiz do projeto, após a instalação **npm
 _________________________________________________________________________________________
 
 # Simulador Solar
-- Projeto solicitado como *case*, se trata de um simulador de irradiação solar que retorna diversas informações através de uma API.
+Projeto solicitado como *case*, se trata de um simulador de irradiação solar que retorna diversas informações através de uma API.
 
 # Ferramentas:
 - React JS;
@@ -12,7 +12,7 @@ ________________________________________________________________________________
 - Framework Bootstrap;
 
 # Funcionalidades:
-- Informar a incidência solar na região do CEP informado, a irradição e a redução de emissão de gás carbono a partir do uso de energia limpa (placas solares).
+Informar a incidência solar na região do CEP informado, a irradição e a redução de emissão de gás carbono a partir do uso de energia limpa (placas solares).
 
 # Imagens:
 *Formulário:*
