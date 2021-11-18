@@ -1,6 +1,6 @@
 # Iniciar aplicação:
 Execute o comando **npm install** na raiz do projeto, após a instalação **npm start** para visualizar o projeto.
->> Nota: no caso de erro: "Can't resolve 'history' in 'C:\Users\luanl_uy6qkaa\OneDrive\Documentos\Desenvolvimento\Case 77Sol\Projeto\simulador_solar_backup\node_modules\react-router'" executar o comando **npm install --save history**.
+> Nota: no caso de erro: "Can't resolve 'history' in 'C:\Users\luanl_uy6qkaa\OneDrive\Documentos\Desenvolvimento\Case 77Sol\Projeto\simulador_solar_backup\node_modules\react-router'" executar o comando **npm install --save history**.
 _________________________________________________________________________________________
 
 # Simulador Solar
