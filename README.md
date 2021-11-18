@@ -1,5 +1,6 @@
 # Iniciar aplicação:
 Execute o comando **npm install** na raiz do projeto, após a instalação **npm start** para visualizar o projeto.
+>> Nota: no caso de erro: "Can't resolve 'history' in 'C:\Users\luanl_uy6qkaa\OneDrive\Documentos\Desenvolvimento\Case 77Sol\Projeto\simulador_solar_backup\node_modules\react-router'" executar o comando **npm install --save history**.
 _________________________________________________________________________________________
 
 # Simulador Solar
@@ -18,4 +19,4 @@ Informar a incidência solar na região do CEP informado, a irradição e a redu
 *Formulário:*
 ![image](https://user-images.githubusercontent.com/37859294/142087168-1c65e337-e0a4-42bf-ba22-1780eeb59514.png)
 *Resultado da Simulação:*
-![image](https://user-images.githubusercontent.com/37859294/142087598-fffbcf9e-5221-4429-9f2e-986f7d6425d8.png)
+![image](https://user-images.githubusercontent.com/37859294/142341464-26352034-9587-4586-a8fb-e6576df473a5.png)
