@@ -1,6 +1,6 @@
 # Iniciar aplicação:
 Execute o comando **npm install** na raiz do projeto, após a instalação **npm start** para visualizar o projeto.
-> Nota: caso no momento da instalação apresente o erro: *Can't resolve 'history'* execute o comando **npm install --save history**.
+> Nota: caso no momento da execução apresente o erro: *Can't resolve 'history'* execute o comando **npm install --save history**.
 
 # Simulador Solar
 Projeto solicitado como *case*, se trata de um simulador de irradiação solar que retorna diversas informações através de uma API.
